@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alps
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://alps-io.github.io/schemas/alps.xsd">
+    <title>ALPS Blog1</title>
+    <doc>An ALPS profile example for ASD</doc>
+    <link href="https://github.com/koriym/app-state-diagram/issues" rel="issue"/>
+
+    <!-- Ontology -->
+    <descriptor id="id" def="https://schema.org/identifier"/>
+
+    <!-- Taxonomy -->
+
+    <!-- Choreography -->
+</alps>
